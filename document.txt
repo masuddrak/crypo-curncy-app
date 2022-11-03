@@ -1,0 +1,6 @@
+API : https://raw.githubusercontent.com/mir-hussain/boots-data/main/data.json
+
+Practice : https://github.com/mir-hussain/heels-villa-practice
+
+Solution : https://github.com/mir-hussain/heels-villa
+
